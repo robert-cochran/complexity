@@ -1,8 +1,9 @@
 # Complex Systems
-## Books
-- At Home in the Universe
-- https://www.researchgate.net/publication/235356744_What_Is_Complexity_Science_Really
-- Web of Life
+- [ ] At Home in the Universe - Stuart Kauffman
+- [x] Web of Life - Fritjof Capra
+- [x] The Hidden Connections - Frijof Capra
+- [ ] https://www.researchgate.net/publication/235356744_What_Is_Complexity_Science_Really
+- [ ] Complex Systems Playlist: https://www.youtube.com/watch?v=vp8v2Udd_PM
 
 ## Repos 
 ### At Home in the Universe - Kauffman
@@ -13,5 +14,10 @@
 - https://github.com/verzep/pyRBN?files=1
 - https://gist.github.com/wybo/f4c4388138450bdf9732
 
-### Dynamical Systems Modelling
+# Emergence
+## Strong and Weak Emergence
+- [ ] http://www.consc.net/papers/emergence.pdf
+- [ ] Emergence Playlist: https://www.youtube.com/watch?v=QItTWZc7hKs
+- 
 
+# Dynamical Systems
