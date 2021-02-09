@@ -24,4 +24,8 @@
 - [ ] What is Strong Emergence | Closer to Truth https://www.youtube.com/watch?v=zkffv2nVF64
 - [ ] Sean Carrol: Emergence - youtube.com/watch?v=0_PdLja-eGQ
 - [ ] Emergence: Chris Fields - https://www.youtube.com/watch?v=3fgR96zk-MU
+## Consciousness
+- ITT : Tononi
+- Brain’s ‘Background Noise’ May Hold Clues to Persistent Mysteries : https://news.ycombinator.com/item?id=26067455
+
 # Dynamical Systems
