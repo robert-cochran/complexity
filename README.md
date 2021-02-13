@@ -5,6 +5,7 @@
 - [ ] The Suprising Design of Market Economies - Marhsall
 - [ ] https://www.researchgate.net/publication/235356744_What_Is_Complexity_Science_Really
 - [ ] Complex Systems Playlist: https://www.youtube.com/watch?v=vp8v2Udd_PM
+- [ ] Learning about Complexity Science : https://www.napcrg.org/media/1278/beginner-complexity-science-module.pdf
 
 ## Repos 
 ### At Home in the Universe - Kauffman
@@ -19,6 +20,12 @@
 - 22. Emergence and Complexity: https://www.youtube.com/watch?v=o_ZuWbX-CyE
 - Self-organising textures from cellular automata : https://news.ycombinator.com/item?id=26112959
   - Chemical Basis of Morphogenisis : https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf
+- Mathematical descriptions of emergence:
+  - [ ] The Mathematics of Emergence∗ : http://www.cs.utah.edu/~tch/CS5300/resources/refs/Cucker2006.pdf
+  - [ ] On Emergence and Explanation 
+    - https://www.researchgate.net/publication/23740406_On_Emergence_and_Explanation
+    - https://www.nbi.dk/~emmeche/coPubl/97d.NABCE/ExplEmer.html
+- A Theory of Emergence and Entropy in Systems of Systems : https://www.sciencedirect.com/science/article/pii/S1877050913010740
 
 ## Strong and Weak Emergence
 - [ ] http://www.consc.net/papers/emergence.pdf
@@ -27,6 +34,11 @@
 - [ ] What is Strong Emergence | Closer to Truth https://www.youtube.com/watch?v=zkffv2nVF64
 - [ ] Sean Carrol: Emergence - youtube.com/watch?v=0_PdLja-eGQ
 - [ ] Emergence: Chris Fields - https://www.youtube.com/watch?v=3fgR96zk-MU
+
+## Emergence and Complexity
+- [ ] Emergence in Complex Systems : https://www.researchgate.net/publication/284472704_Emergence_in_complex_systems
+- [ ] The Concept of Emergence in Complexity Science: Finding Coherence between Theory and Practice : https://services.ini.uzh.ch/admin/extras/doc_get.php?id=41950
+
 ## Consciousness
 - ITT : Tononi
 - Brain’s ‘Background Noise’ May Hold Clues to Persistent Mysteries : https://news.ycombinator.com/item?id=26067455
