@@ -17,6 +17,9 @@
 
 # Emergence
 - 22. Emergence and Complexity: https://www.youtube.com/watch?v=o_ZuWbX-CyE
+- Self-organising textures from cellular automata : https://news.ycombinator.com/item?id=26112959
+  - Chemical Basis of Morphogenisis : https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf
+
 ## Strong and Weak Emergence
 - [ ] http://www.consc.net/papers/emergence.pdf
 - [ ] Emergence Playlist: https://www.youtube.com/watch?v=QItTWZc7hKs
