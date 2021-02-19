@@ -7,6 +7,8 @@
 - [ ] Complex Systems Playlist: https://www.youtube.com/watch?v=vp8v2Udd_PM
 - [ ] Learning about Complexity Science : https://www.napcrg.org/media/1278/beginner-complexity-science-module.pdf
 - [ ] Complexity Theory : https://www.mdpi.com/2079-8954/7/1/4/pdf-vor
+- [ ] Systemantics : https://en.wikipedia.org/wiki/Systemantics
+
 
 ## Repos 
 ### At Home in the Universe - Kauffman
