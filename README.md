@@ -12,6 +12,12 @@
 - [ ] Antichaos and adaptation : https://www.imsc.res.in/~sitabhra/teaching/sb15b/StuartKauffman_SciAm_1991_Antichaos_and_adaptation.pdf
 - [ ] Coevolution on the edge of chaos : https://www.sccs.swarthmore.edu/users/08/bblonder/phys120/docs/kauffman.pdf
 - [ ] Worlds Hidden in Plain Sight: Thirty Years of Complexity Thinking at the Santa Fe Institute
+- [ ] Origins of Order : https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566fa2ac40667ad8b9b6127c/1450156716552/1993_Kauffman_The+Origins+of+Order.pdf
+- [ ] Waves of Novelities into Adjacent spaces : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464662/
+- [ ] Dyanmics of correlated novelties : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376195/
+- [ ] Reinventing the Sacred - Kauffman
+
+
 
 ## Repos 
 ### At Home in the Universe - Kauffman
