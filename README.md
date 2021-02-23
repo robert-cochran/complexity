@@ -16,6 +16,8 @@
 - [ ] Waves of Novelities into Adjacent spaces : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464662/
 - [ ] Dyanmics of correlated novelties : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376195/
 - [ ] Reinventing the Sacred - Kauffman
+- [ ] Surprising true story of ... : https://web.archive.org/web/20200527002318/https://iscpif.fr/wp-content/uploads/2016/11/THE-SURPRISING-TRUE-2STORY-OF-PATRICK-S-RUPERT-R.-SLY-S.-AND-GUS-G.-.pdf
+- [ ] 
 
 
 
