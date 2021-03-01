@@ -1,7 +1,5 @@
 # Complex Systems
-- [ ] At Home in the Universe - Stuart Kauffman
-- [x] Web of Life - Fritjof Capra
-- [x] The Hidden Connections - Frijof Capra
+## Papers
 - [ ] The Suprising Design of Market Economies - Marhsall
 - [ ] https://www.researchgate.net/publication/235356744_What_Is_Complexity_Science_Really
 - [ ] Complex Systems Playlist: https://www.youtube.com/watch?v=vp8v2Udd_PM
@@ -9,17 +7,31 @@
 - [ ] Complexity Theory : https://www.mdpi.com/2079-8954/7/1/4/pdf-vor
 - [ ] Systemantics : https://en.wikipedia.org/wiki/Systemantics
 - [ ] SFI : https://www.santafe.edu/applied-complexity/office
+- [ ] Worlds Hidden in Plain Sight: Thirty Years of Complexity Thinking at the Santa Fe Institute
+- [ ] Waves of Novelities into Adjacent spaces : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464662/
+- [ ] Complexity Scholars : https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:complexity
+- [ ] Shekar Chandra : https://github.com/shakes76/ChaoS
+- [ ] Universality in transitions to Chaos : http://www.cns.gatech.edu/PHYS-4267/UFO.pdf 
+  - [ ] CHAOS: CLASSICAL AND QUANTUM : http://chaosbook.org/
+
+## Capra
+- [x] Web of Life - Fritjof Capra
+- [x] The Hidden Connections - Frijof Capra
+
+## Kauffman
+- [ ] Kauffman : https://scholar.google.com/citations?user=yoPM0F8AAAAJ&hl=en
+- [ ] At Home in the Universe - Stuart Kauffman
 - [ ] Antichaos and adaptation : https://www.imsc.res.in/~sitabhra/teaching/sb15b/StuartKauffman_SciAm_1991_Antichaos_and_adaptation.pdf
 - [ ] Coevolution on the edge of chaos : https://www.sccs.swarthmore.edu/users/08/bblonder/phys120/docs/kauffman.pdf
-- [ ] Worlds Hidden in Plain Sight: Thirty Years of Complexity Thinking at the Santa Fe Institute
-- [ ] Origins of Order : https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566fa2ac40667ad8b9b6127c/1450156716552/1993_Kauffman_The+Origins+of+Order.pdf
-- [ ] Waves of Novelities into Adjacent spaces : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464662/
-- [ ] Dyanmics of correlated novelties : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376195/
 - [ ] Reinventing the Sacred - Kauffman
-- [ ] Surprising true story of ... : https://web.archive.org/web/20200527002318/https://iscpif.fr/wp-content/uploads/2016/11/THE-SURPRISING-TRUE-2STORY-OF-PATRICK-S-RUPERT-R.-SLY-S.-AND-GUS-G.-.pdf
-- [ ] 
+- [ ] Origins of Order : https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566fa2ac40667ad8b9b6127c/1450156716552/1993_Kauffman_The+Origins+of+Order.pdf
 
 
+## Strogatz
+- [ ] Strogatz: Surprising true story of ... : https://web.archive.org/web/20200527002318/https://iscpif.fr/wp-content/uploads/2016/11/THE-SURPRISING-TRUE-2STORY-OF-PATRICK-S-RUPERT-R.-SLY-S.-AND-GUS-G.-.pdf
+- [ ] Dyanmics of correlated novelties : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376195/
+- [ ] Nonlinear Dynamics and Chaos : http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf
+- [ ] Exploring Complex Networks : https://wwwf.imperial.ac.uk/~mjfield1/research/networks/General/SS_exploring_complex_networks.pdf
 
 ## Repos 
 ### At Home in the Universe - Kauffman
@@ -29,6 +41,13 @@
 - https://github.com/leonzucchini/CompetitionOnRuggedLandscapes
 - https://github.com/verzep/pyRBN?files=1
 - https://gist.github.com/wybo/f4c4388138450bdf9732
+- https://www.google.com/search?q=nk+model+github&oq=nk+model+github&aqs=chrome..69i57.2038j0j1&sourceid=chrome&ie=UTF-8
+
+## Concepts
+- Route to Chaos https://encyclopediaofmath.org/wiki/Routes_to_chaos
+  - Fiegenbaum Constans : https://en.wikipedia.org/wiki/Feigenbaum_constants
+- Ln Map https://en.wikipedia.org/wiki/Logistic_map
+- Kolmogorov–Arnold–Moser theorem https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem
 
 # Emergence
 - 22. Emergence and Complexity: https://www.youtube.com/watch?v=o_ZuWbX-CyE
@@ -65,3 +84,11 @@
 - Brain’s ‘Background Noise’ May Hold Clues to Persistent Mysteries : https://news.ycombinator.com/item?id=26067455
 
 # Dynamical Systems
+- [ ] Existence of perpetual points in nonlinear dynamical systems and its applications : https://arxiv.org/pdf/1409.4921.pdf
+
+## Dyanimcal Systems and Knowledge Creation (dynamical knowledge systems pattern)
+- [ ] Dynamic Patterns: The Self-Organization of Brain and Behavior : https://www.researchgate.net/publication/224982322_Dynamic_Patterns_The_Self-Organization_of_Brain_and_Behavior
+- [ ] Thinking patterns and knowledge dynamics : https://www.researchgate.net/publication/295366505_Thinking_patterns_and_knowledge_dynamics
+- [ ] Dynamic Knowledge Systems : http://www.providersedge.com/docs/km_articles/Dynamic_Knowledge_Systems.pdf
+- [ ] Theory of Knowledge in System Dynamics Models https://www.researchgate.net/publication/257563268_Theory_of_Knowledge_in_System_Dynamics_Models
+- [ ] 
