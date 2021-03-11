@@ -46,7 +46,7 @@
 ## Concepts
 - [Route to Chaos](https://encyclopediaofmath.org/wiki/Routes_to_chaos)
   - [Fiegenbaum Constans](https://en.wikipedia.org/wiki/Feigenbaum_constants)
-- [Ln Map](https://en.wikipedia.org/wiki/Logistic_map)
+- [Logistic Map](https://en.wikipedia.org/wiki/Logistic_map)
 - [Kolmogorov–Arnold–Moser theorem](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem)
 
 # Chaos
