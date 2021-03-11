@@ -44,10 +44,13 @@
 - https://www.google.com/search?q=nk+model+github&oq=nk+model+github&aqs=chrome..69i57.2038j0j1&sourceid=chrome&ie=UTF-8
 
 ## Concepts
-- Route to Chaos https://encyclopediaofmath.org/wiki/Routes_to_chaos
-  - Fiegenbaum Constans : https://en.wikipedia.org/wiki/Feigenbaum_constants
-- Ln Map https://en.wikipedia.org/wiki/Logistic_map
-- Kolmogorov–Arnold–Moser theorem https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem
+- [Route to Chaos](https://encyclopediaofmath.org/wiki/Routes_to_chaos)
+  - [Fiegenbaum Constans](https://en.wikipedia.org/wiki/Feigenbaum_constants)
+- [Ln Map](https://en.wikipedia.org/wiki/Logistic_map)
+- [Kolmogorov–Arnold–Moser theorem](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem)
+
+# Chaos
+- [List of Chaotic Maps](https://en.wikipedia.org/wiki/List_of_chaotic_maps)
 
 # Emergence
 - 22. Emergence and Complexity: https://www.youtube.com/watch?v=o_ZuWbX-CyE
