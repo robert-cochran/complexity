@@ -20,7 +20,7 @@
 
 ## Kauffman
 - [ ] Kauffman : https://scholar.google.com/citations?user=yoPM0F8AAAAJ&hl=en
-- [ ] At Home in the Universe - Stuart Kauffman
+- [x] At Home in the Universe - Stuart Kauffman
 - [ ] Antichaos and adaptation : https://www.imsc.res.in/~sitabhra/teaching/sb15b/StuartKauffman_SciAm_1991_Antichaos_and_adaptation.pdf
 - [ ] Coevolution on the edge of chaos : https://www.sccs.swarthmore.edu/users/08/bblonder/phys120/docs/kauffman.pdf
 - [ ] Reinventing the Sacred - Kauffman
