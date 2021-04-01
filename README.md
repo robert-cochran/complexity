@@ -1,4 +1,24 @@
 # Complex Systems
+
+## Code
+#### At Home in the Universe - Kauffman
+- https://github.com/mtwestra/button-model
+- https://github.com/minellogiacomo/Sendero
+- https://github.com/husonlab/catlynet
+- https://github.com/leonzucchini/CompetitionOnRuggedLandscapes
+- https://github.com/verzep/pyRBN?files=1
+- https://gist.github.com/wybo/f4c4388138450bdf9732
+- https://www.google.com/search?q=nk+model+github&oq=nk+model+github&aqs=chrome..69i57.2038j0j1&sourceid=chrome&ie=UTF-8
+
+#### Synchronization
+- https://www.youtube.com/watch?v=t-_VPRCtiUg Synchronization
+- https://ncase.me/fireflies/
+- https://www.complexity-explorables.org/explorables/ride-my-kuramotocycle/ kuramoto model
+
+### Attractors
+- https://github.com/xMissingno/Coding-Projects
+- https://github.com/HackerPoet/Chaos-Equations
+
 ## Papers
 - [ ] The Suprising Design of Market Economies - Marhsall
 - [ ] https://www.researchgate.net/publication/235356744_What_Is_Complexity_Science_Really
@@ -33,15 +53,7 @@
 - [ ] Nonlinear Dynamics and Chaos : http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf
 - [ ] Exploring Complex Networks : https://wwwf.imperial.ac.uk/~mjfield1/research/networks/General/SS_exploring_complex_networks.pdf
 
-## Repos 
-### At Home in the Universe - Kauffman
-- https://github.com/mtwestra/button-model
-- https://github.com/minellogiacomo/Sendero
-- https://github.com/husonlab/catlynet
-- https://github.com/leonzucchini/CompetitionOnRuggedLandscapes
-- https://github.com/verzep/pyRBN?files=1
-- https://gist.github.com/wybo/f4c4388138450bdf9732
-- https://www.google.com/search?q=nk+model+github&oq=nk+model+github&aqs=chrome..69i57.2038j0j1&sourceid=chrome&ie=UTF-8
+
 
 ## Concepts
 - [Route to Chaos](https://encyclopediaofmath.org/wiki/Routes_to_chaos)
