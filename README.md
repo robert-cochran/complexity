@@ -34,6 +34,12 @@
 - [ ] Universality in transitions to Chaos : http://www.cns.gatech.edu/PHYS-4267/UFO.pdf 
   - [ ] CHAOS: CLASSICAL AND QUANTUM : http://chaosbook.org/
 
+### Information Theory
+- [ ] Information Theory of Individuality https://arxiv.org/abs/1412.2447
+  - [ ] Flack Arxiv https://arxiv.org/search/q-bio?searchtype=author&query=Flack%2C+J+C
+  - [ ] Krakauer Arxiv https://arxiv.org/search/q-bio?searchtype=author&query=Krakauer%2C+D
+- [ ] Information Theory of Deep Learning https://www.youtube.com/results?search_query=information+theory+of+deep+learning
+
 ## Capra
 - [x] Web of Life - Fritjof Capra
 - [x] The Hidden Connections - Frijof Capra
